@@ -19,6 +19,7 @@ $(document).ready(function(){
 // });
 
 $('.droughtones').draggable({ cursor: "move", cursorAt: { top: 300, left: 100 } });
+// $('#r2009').resizable();
 
 
 $(window).scroll(function () {
