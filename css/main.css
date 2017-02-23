@@ -601,3 +601,25 @@ body,html{
 
 
 
+
+
+
+
+
+@media screen and (max-width: 520px) {
+.info{
+    position: fixed;
+    top: 400px;
+    left: 5%;
+    width: 100px;
+}
+
+.droughtones{
+  position: fixed;
+  top: 25px;
+  left: 21%;
+  width: 260px;
+  transition: all .5s cubic-bezier(.25,.46,.45,.94);
+}
+
+}
