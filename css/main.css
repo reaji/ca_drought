@@ -66,9 +66,8 @@ html, body{
 }
 
 .droughtones:hover{
-    -ms-transform: scale(2, 2); /* IE 9 */
-    -webkit-transform: scale(2, 2); /* Safari */
-    transform: scale(2, 2);
+   /* top:-100px;*/
+    width: 660px;
     cursor:move
 }
 

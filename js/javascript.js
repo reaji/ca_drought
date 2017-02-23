@@ -18,7 +18,14 @@ $(document).ready(function(){
 // 	}
 // });
 
-$('.droughtones').draggable({ cursor: "move", cursorAt: { top: 300, left: 100 } });
+$('.droughtones').draggable({ 
+    // stop: function() {}
+    cursor: "move", revert: true, cursorAt: { top: 600, left: 200 }
+});
+
+// $( "#r2009" ).resizable({
+//       aspectRatio: 16 / 9
+//     });
 // $('#r2009').resizable();
 
 
