@@ -53,89 +53,52 @@ html, body{
 .info{
   position: fixed;
   top: 170px;
-  left: 200px;
+  left: 10%;
   width: 250px;
 }
 
-#r2009{
+.droughtones{
   position: fixed;
   top: 85px;
-  right: 400px;
+  left: 50%;
   width: 330px;
-  opacity: 1;
   transition: all .5s cubic-bezier(.25,.46,.45,.94);
+}
+
+#r2009{
+  opacity: 1;
 }
 
 #r2010{
-  position: fixed;
-  top: 85px;
-  right: 400px;
-  width: 330px;
   opacity: 0;
-  transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 #r2011{
-  position: fixed;
-  top: 85px;
-  right: 400px;
-  width: 330px;
   opacity: 0;
-  transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 #r2012{
-  position: fixed;
-  top: 85px;
-  right: 400px;
-  width: 330px;
   opacity: 0;
-  transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 #r2013{
-  position: fixed;
-  top: 85px;
-  right: 400px;
-  width: 330px;
   opacity: 0;
-  transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 #r2014{
-  position: fixed;
-  top: 85px;
-  right: 400px;
-  width: 330px;
   opacity: 0;
-  transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 #r2015{
-  position: fixed;
-  top: 85px;
-  right: 400px;
-  width: 330px;
   opacity: 0;
-  transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 #r2016{
-  position: fixed;
-  top: 85px;
-  right: 400px;
-  width: 330px;
   opacity: 0;
-  transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 #r2017{
-  position: fixed;
-  top: 85px;
-  right: 400px;
-  width: 330px;
   opacity: 0;
-  transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 
