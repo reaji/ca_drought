@@ -65,8 +65,15 @@ html, body{
   transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
+.droughtones:hover{
+    -ms-transform: scale(2, 2); /* IE 9 */
+    -webkit-transform: scale(2, 2); /* Safari */
+    transform: scale(2, 2);
+}
+
 #r2009{
   opacity: 1;
+  z-index: 2;
 }
 
 #r2010{
