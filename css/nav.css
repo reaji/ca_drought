@@ -11,6 +11,7 @@
   background: white;
   -webkit-transition: all .5s cubic-bezier(.25,.46,.45,.94);
     transition: all .5s cubic-bezier(.25,.46,.45,.94);
+  box-shadow: rgba(0,0,0,0.16) 0 2px 4px;
 }
 
 #navbackground2{  display: none;
