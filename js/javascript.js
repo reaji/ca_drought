@@ -12,6 +12,14 @@ $(document).ready(function(){
 		
 	});
 
+    // $('.droughtones').click(function(){
+    //     $('.droughtones').css('width', '660px');       
+    // });
+
+    // $('.droughtones').click(function(){
+    //     $('.droughtones').css('width', '330px');      
+    // });
+
 // 	$( window ).scroll(function() {
 // 		if( scroll = false ){
 // 		    $('#mybutt').css("top", "-15px");

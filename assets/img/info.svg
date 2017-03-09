@@ -1,47 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="724px" height="1363px" viewBox="0 0 724 1363" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="658px" height="1149px" viewBox="0 0 658 1149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
     <title>Info</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Reservior" transform="translate(-91.000000, -354.000000)">
-            <g id="Info" transform="translate(91.000000, 354.000000)">
-                <text id="Shasta:-Oroville:-Sa" font-family="SFUIText-Bold, SF UI Text" font-size="72" font-weight="bold" line-spacing="160" fill="#666666">
-                    <tspan x="12" y="844">Shasta:</tspan>
-                    <tspan x="287.90625" y="844" font-family="SFUIText-Regular, SF UI Text" font-weight="normal"></tspan>
-                    <tspan x="12" y="1004">Oroville:</tspan>
-                    <tspan x="317.613281" y="1004" font-family="SFUIText-Regular, SF UI Text" font-weight="normal"></tspan>
-                    <tspan x="12" y="1164">San Luis:</tspan>
-                    <tspan x="343.207031" y="1164" font-family="SFUIText-Regular, SF UI Text" font-weight="normal"></tspan>
-                    <tspan x="12" y="1324">Castaic:</tspan>
-                </text>
-                <text id="4552-AF-total-3538-A" font-family="SFUIText-Regular, SF UI Text" font-size="72" font-weight="normal" line-spacing="160">
-                    <tspan x="394" y="844" fill="#0A93FA">4552</tspan>
-                    <tspan x="572.910156" y="844" fill="#333333"> </tspan>
-                    <tspan x="593.230469" y="844" font-size="36" fill="#333333">AF total</tspan>
-                    <tspan x="724.609375" y="844" fill="#0A93FA"></tspan>
-                    <tspan x="394" y="1004" fill="#0A93FA">3538</tspan>
-                    <tspan x="574.808594" y="1004" fill="#333333"> </tspan>
-                    <tspan x="595.128906" y="1004" font-size="36" fill="#333333">AF total</tspan>
-                    <tspan x="394" y="1164" fill="#0A93FA">2039</tspan>
-                    <tspan x="573.859375" y="1164" fill="#333333"> </tspan>
-                    <tspan x="594.179688" y="1164" font-size="36" fill="#333333">AF total</tspan>
-                    <tspan x="725.558594" y="1164" fill="#333333"></tspan>
-                    <tspan x="394" y="1324" fill="#0A93FA">325</tspan>
-                    <tspan x="527.171875" y="1324" fill="#333333"> </tspan>
-                    <tspan x="547.492188" y="1324" font-size="36" fill="#333333">AF total</tspan>
+        <g id="Reservior" transform="translate(-133.000000, -554.000000)">
+            <g id="Info" transform="translate(133.000000, 554.000000)">
+                <text id="Shasta:-4552-AF-tota" font-family="SFUIText-Regular, SF UI Text" font-size="72" font-weight="normal" line-spacing="160">
+                    <tspan x="0" y="630" fill="#666666">Shasta:</tspan>
+                    <tspan x="254.003906" y="630" fill="#0A93FA"> 4552</tspan>
+                    <tspan x="453.234375" y="630" fill="#333333"> </tspan>
+                    <tspan x="473.554688" y="630" font-size="36" fill="#333333">AF total</tspan>
+                    <tspan x="604.933594" y="630" fill="#0A93FA"></tspan>
+                    <tspan x="0" y="790" fill="#666666">Oroville:</tspan>
+                    <tspan x="280.476562" y="790" fill="#0A93FA"> 3538</tspan>
+                    <tspan x="481.605469" y="790" fill="#333333"> </tspan>
+                    <tspan x="501.925781" y="790" font-size="36" fill="#333333">AF total</tspan>
+                    <tspan x="0" y="950" fill="#666666">San Luis: </tspan>
+                    <tspan x="329.378906" y="950" fill="#0A93FA">2039</tspan>
+                    <tspan x="509.238281" y="950" fill="#333333"> </tspan>
+                    <tspan x="529.558594" y="950" font-size="36" fill="#333333">AF total</tspan>
+                    <tspan x="660.9375" y="950" fill="#333333"></tspan>
+                    <tspan x="0" y="1110" fill="#666666">Castaic: </tspan>
+                    <tspan x="294.539062" y="1110" fill="#0A93FA">325</tspan>
+                    <tspan x="427.710938" y="1110" fill="#333333"> </tspan>
+                    <tspan x="448.03125" y="1110" font-size="36" fill="#333333">AF total</tspan>
                 </text>
                 <g id="Example">
-                    <circle id="Oval" fill-opacity="0.3" fill="#0A93FA" cx="362" cy="362" r="362"></circle>
-                    <g id="Amount" transform="translate(148.000000, 147.000000)">
-                        <circle id="Oval-Copy" fill="#0A93FA" cx="215" cy="215" r="215"></circle>
-                        <text id="Current-Amount" font-family="SFUIText-Bold, SF UI Text" font-size="48" font-weight="bold" fill="#FFFFFF">
-                            <tspan x="20.3476562" y="232">Current Amount</tspan>
+                    <circle id="Oval" fill-opacity="0.3" fill="#0A93FA" cx="217" cy="217" r="217"></circle>
+                    <g id="Amount" transform="translate(88.718232, 88.118785)">
+                        <circle id="Oval-Copy" fill="#0A93FA" cx="128.881215" cy="128.881215" r="128.881215"></circle>
+                        <text id="Current-Amount" font-family="SFUIText-Bold, SF UI Text" font-size="28.8" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="12.089533" y="138.497238">Current Amount</tspan>
                         </text>
                     </g>
-                    <text id="Total-Amount" font-family="SFUIText-Bold, SF UI Text" font-size="48" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="200.105469" y="655">Total Amount</tspan>
+                    <text id="Total-Amount" font-family="SFUIText-Bold, SF UI Text" font-size="28.8" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="119.862453" y="392.063536">Total Amount</tspan>
                     </text>
                 </g>
             </g>
